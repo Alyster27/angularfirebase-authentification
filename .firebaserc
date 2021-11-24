@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularfiebase-authentic-880f0": {
+      "hosting": {
+        "angularfiebase-authentication": [
+          "angularfiebase-authentic-880f0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularfiebase-authentic-880f0"
+  }
+}
